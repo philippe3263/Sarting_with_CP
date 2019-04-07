@@ -1,5 +1,5 @@
 # Sarting_with_CP
-Java example for Choco : copanion to the book "De la Programmation Linéaire à la Programmation Par Contraintes " in French only.
+Java example for Choco : companion to the book "De la Programmation Linéaire à la Programmation Par Contraintes " in French only.
 
 Web page of the book here : http://fc.isima.fr/~lacomme/PL_PPC/index.php
 
